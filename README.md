@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GodlyDemonLord
+- 👋 Hi, I’m George Mulgachev
 - 👀 I’m interested in C# programing
-- 🌱 I’m currently learning C#
+
 
